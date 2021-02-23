@@ -22,7 +22,7 @@
             >
           </li>
           <li class="nav-item">
-            <NuxtLink to="/artwork" class="nav-link">Artwork</NuxtLink>
+            <NuxtLink to="/Gallery" class="nav-link">Artwork</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink to="/music" class="nav-link">Music</NuxtLink>

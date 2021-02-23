@@ -3,11 +3,6 @@
     <div>
       <LogoFlipped />
       <h1 class="title">muchLUV</h1>
-      <div class="nav-bar links">
-        <NuxtLink to="/gallery" class="button--green">Art</NuxtLink>
-        <NuxtLink to="/music" class="button--grey">Music</NuxtLink>
-        <NuxtLink to="/contact" class="button--grey">Contact</NuxtLink>
-      </div>
     </div>
   </div>
 </template>
