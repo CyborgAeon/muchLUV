@@ -23,7 +23,7 @@ export default Vue.extend({
         price: '$69',
         image: '1.jpg',
         description:
-          'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
+          'Lorem ipsum dolor sit amet consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
       },
       {
         title: 'TitleGoesHere2',
