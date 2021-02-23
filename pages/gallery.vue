@@ -28,28 +28,28 @@ export default Vue.extend({
       {
         title: 'TitleGoesHere2',
         price: '$69',
-        image: '../../../assets/images/2.jpg',
+        image: 'assets/images/2.jpg',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
       },
       {
         title: 'TitleGoesHere3',
         price: '$69',
-        image: '../../../assets/images/3.jpg',
+        image: 'assets/images/3.jpg',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
       },
       {
         title: 'TitleGoesHere4',
         price: '$69',
-        image: '../../../assets/images/4.jpg',
+        image: 'assets/images/4.jpg',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
       },
       {
         title: 'TitleGoesHere5',
         price: '$69',
-        image: '../../../assets/images/5.jpg',
+        image: 'assets/images/5.jpg',
         description:
           'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Quisque consectetur pulvinar massa, vitae faucibus libero tincidunt non. Aliquam erat volutpat. Ut bibendum justo sed rutrum suscipit.',
       },
