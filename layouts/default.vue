@@ -1,4 +1,5 @@
 <template>
+
   <div class="app-container">
     <Navbar />
     <div class="app-content">
@@ -20,7 +21,6 @@ export default {
     Navbar,
     Footer,
   },
-
   computed: {
     isSidebar() {
       return this.$store.getters['nav/toggleSidebar']
